@@ -4,7 +4,7 @@
 
   </div> -->
 
-<h3 align="center"><b>🛠 Favorite Languages 🛠</b></h3>
+<h3 align="center"><b>🛠Favorite Languages🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/C-6295CB?style=plastic&logo=C&logoColor=white"/> &nbsp
