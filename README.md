@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C++-005697?style=plastic&logo=CPlusPlus&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Go-68D7E1?style=plastic&logo=Go&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Python-0277bd?style=plastic&logo=Python&logoColor=ffc107"/> &nbsp
-<img src="https://img.shields.io/badge/Typescript-2F74C0?style=plastic&logo=Typescript&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Typescript-3178c6?style=plastic&logo=Typescript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Rust-f65b00?style=plastic&logo=Rust&logoColor=black"/> &nbsp
 
