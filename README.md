@@ -15,4 +15,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Rust-f65b00?style=plastic&logo=Rust&logoColor=black"/> &nbsp
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mdisprgm&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--Anurag's github stats-->
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=mdisprgm&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
